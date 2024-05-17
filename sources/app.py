@@ -8,7 +8,7 @@ import time
 
 class Jeu:
     def __init__(self):
-        pyxel.init(256, 256, title="Nuit du Code", fps = 60)
+        pyxel.init(256, 256, title="Nuit du Code | Deadly Hunt", fps = 60)
         pyxel.load("2.pyxres")
         self.joueur = Joueur(10, 178)
         self.monstres = []
