@@ -13,7 +13,7 @@ vous pouvez tuer les monstres qui apparaissent. Votre mission, si toutefois vous
 augmentez votre score. Bon amusement !
 
 *Ce projet a été fait en 6h en Python avec le module Pyxel à l'occasion de la "Nuit du Code 2024".*
-*Aucune mise à jour ou amélioration ne sera apportée.*
+*Aucune mise à jour ou amélioration ne sera apportée. Toutefois, il n'est pas exclu qu'une suite de ce jeu soit envisagée.*
 
 ___
 
@@ -23,9 +23,13 @@ you can kill the monsters that appear. Your mission, if you accept it, is to kil
 increase your score. Have fun !
 
 *This project was done in 6h in Python with the Pyxel module on the occasion of the "Nuit du Code 2024".*
-*No updates or enhancements will be made.*
+*No updates or enhancements will be made. However, it is not excluded that a continuation of this game is envisaged.*
 
-________
+# Pour en savoir plus :
+
+[Réseaux sociaux 🌍](https://linktr.ee/osiris_sio)
+
+# Auteurs :
 
 AMEDRO Louis (alias Osiris Sio)
 LAPÔTRE Marylou
