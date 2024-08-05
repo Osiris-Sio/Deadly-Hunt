@@ -1,6 +1,6 @@
 # Jouer
 
-[Clique ici](https://osiris-sio.github.io/HTML_Deadly-Hunt/) pour jouer sur le navigateur, PC uniquement !
+[Clique ici](https://osiris-sio.itch.io/deadly-hunt) pour jouer sur le navigateur, PC uniquement !
 Vous pouvez également jouer hors ligne en installant game.html ([ici](https://github.com/Osiris-Sio/Ball-Challenge/blob/main/game.html)).
 
 # Description 
